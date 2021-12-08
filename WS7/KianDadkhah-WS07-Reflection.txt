@@ -1,0 +1,5 @@
+JAC444 WS07 Reflection
+
+Kian Dadkhah Shokrollahi	SID: 119369205
+
+I very much enjoyed this workshop, the tasks were easy enough for me to breeze through, yet hard enough to give me a good challenge and truly test my abilities in investigating, diagnosing, and problem-solving. This workshop gave me a great chance to practice and become even more comfortable with arrays, I/O, inheritance, polymorphism, exceptions, GUI, lambdas, and most importantly, Functional Interfaces. Personally, I found task 2 to be much easier and exponentially faster to implement than task 1, although that is mainly due to my lack of knowledge and skill in implementing JavaFX and other such GUI elements. Since we've previously learned about lambda expressions and have worked with them both in C++ and Javascript (React), I got the hang of it rather quickly. An area I need more practice in is working with GUIs, specifically, with regards to how elements are layed out inside a panel. This is something I will be sure to improve upon for the upcoming workshops.

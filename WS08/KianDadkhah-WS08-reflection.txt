@@ -1,0 +1,7 @@
+JAC444 Workshop 8 - Reflection
+Name: Kian Dadkhah Shokrollahi		SID: 119369205
+
+I found this workshop to be quite a satisfying and significant challenge. It was a great opportunity to practice various concepts that we've already been learning about, as well as learn new concepts that are essential to Java OOP. I enjoyed the free design aspect as well as it allowed more flexibility and focus on the important functions of the workshop.
+With workshop 8, I had the chance to become better at implementing a JavaFX GUI (task 2). This time, I used none of my built in IDE features, and I used no FXML sheets for creating a markdown template of my window. Instead, I took a very simple approach similar to what's been shown in class, and I used the GridPane this time to achieve much cleaner results. 
+The main takeaway from this workshop is that it helped familiarize me with the concept of Collections in Java; particularly with the LinkedList from task 1. I also learned/became familiar with using the Map Interface, which was used to instanciate a LinkedHashMap consisting of a set of String keys and String values in task 3.
+Overall I found this workshop useful and fun to implement, and I look forward honing my coding skills further with the coming workshops.

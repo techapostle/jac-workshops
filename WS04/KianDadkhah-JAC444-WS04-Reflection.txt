@@ -1,0 +1,8 @@
+Kian Dadkhah Shokrollahi
+JAV444 Workshop 4
+Reflection
+2021-10-18
+
+This workshop provided a fantastic opportunity to practice three essential Java and OOP concepts. It allowed me to become more familiar with the idea of class inheritence and how it works in Java, as well as the kind of polymorphism that can be achieved by using interface, abstract, and concrete classes together. This was implemented via several related concrete classes which use the super() function to initialize themselves and their parent classes to achieve polymorphism. In addition, this workshop also gave me some practice on handling and throwing exceptions, although I don't feel 100% there with that yet and any feedback would be greatly appreciated.
+Last but not least, I learned/became more comfortable with formatting String output as well as using the printf function in Java.
+All in all I found this to be an enjoyable workshop, although I think higher difficulty wouldn't hurt as I'm starting to hunger for more complexity within our coursework.

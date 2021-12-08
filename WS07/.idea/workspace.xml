@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71eb8b3d-61ad-4ddb-8704-e22491cba11e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../WS03/WS03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS04/WS04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS05/WS05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS06/WS06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WS07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS6/reflect.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS6/walkthrough.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WS7/WS7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/WelcomeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/WelcomeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task1/LoanCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task1/LoanCompare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task1/LoanCompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task1/LoanCompareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task2/GuessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task2/GuessController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task2/GuessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/java/ca/jac444/ws6/task2/GuessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/src/main/resources/ca/jac444/ws6/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/src/main/resources/ca/jac444/ws6/welcome-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/WelcomeApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/WelcomeApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/WelcomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/WelcomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompare$LoanOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompare$LoanOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task1/LoanCompareTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessController$GuessHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessController$GuessHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WS6/target/classes/ca/jac444/ws6/task2/GuessTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="213fAbUqtTSihDY2H9MiYoqP5Mz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71eb8b3d-61ad-4ddb-8704-e22491cba11e" name="Changes" comment="" />
+      <created>1637174548510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637174548510</updated>
+    </task>
+    <servers />
+  </component>
+</project>
