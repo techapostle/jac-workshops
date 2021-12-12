@@ -1,0 +1,7 @@
+Name: Kian Dadkhah Shokrollahi		SID: 119369205
+WS10 Reflection
+
+I found this workshop to be quite difficult (though less than the previous one as I was unable to complete that). However despite its difficulty, I still enjoyed it and gained a lot of experience as this was a very practical application which I will most likely be implementing on a larger scale in the near future. Thanks to this workshop, I have grasped an idea behind the mechanism of how a server-client chat application is implemented in Java.
+Unfortunately with this workshop I was unable to get a fully working GUI, and so I ultimately decided to ditch a GUI as my program is still able to spawn three seperate windows by using a terminal emulator or Windows CMD to compile and run each class. I recognize that implementing proper and pleasant looking GUIs is an area in Java which I seriouslylack in, and I believe with more time and practice through workshops such as this I will eventually learn to nail it just the way I want it.
+All in all I learned a lot from this workshop even though I wasn't able to complete it in time. This task gave me much needed experience in Java Threading and Socket programming, as well as all the other concepts we've been learning about and appying throughout this course. 
+A goal I'm setting for myself based on my performance and implementation of this workshop is to have a fully working GUI with some extra sauce for the final workshop, similar to what I was able to implement in Workshop 6.

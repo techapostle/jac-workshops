@@ -1,3 +1,15 @@
+/**********************************************
+ Workshop #
+ Course: JAC444
+ Last Name: Dadkhah Shokrollahi
+ First Name: Kian
+ ID: 119369205
+ Section: NDD
+ This assignment represents my own work in accordance with Seneca Academic Policy.
+ Signature
+ Date: 12-9-2021
+ **********************************************/
+
 package task1;
 
 import java.io.*;

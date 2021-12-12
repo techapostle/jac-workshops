@@ -1,3 +1,15 @@
+/**********************************************
+ Workshop #
+ Course: JAC444
+ Last Name: Dadkhah Shokrollahi
+ First Name: Kian
+ ID: 119369205
+ Section: NDD
+ This assignment represents my own work in accordance with Seneca Academic Policy.
+ Signature
+ Date: 12-9-2021
+ **********************************************/
+
 package task1;
 
 import java.io.BufferedReader;
@@ -9,24 +21,25 @@ import java.net.Socket;
 import java.net.SocketException;
 
 public class Server {
-    private ServerSocket serverSocket;
+    private final ServerSocket serverSocket;
 
-    public Server(ServerSocket sSocket) {
-        this.serverSocket = sSocket;
+    public Server(ServerSocket serverSocket) {
+        this.serverSocket = serverSocket;
     }
 
     public void startServer() {
         try {
             while (!serverSocket.isClosed()) {
                 Socket socket = serverSocket.accept();
-                System.out.println("A new client has connected"); // TODO: imp in JFX
+                System.out.println("New connection from socket: " + socket.getLocalSocketAddress()
+                        + ", PORT: " + socket.getPort());
                 ClientHandler clientHandler = new ClientHandler(socket);
 
                 Thread thread = new Thread(clientHandler);
                 thread.start();
             }
         } catch (IOException e) {
-
+            closeServerSocket();
         }
     }
 
